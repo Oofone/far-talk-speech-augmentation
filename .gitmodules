@@ -1,0 +1,6 @@
+[submodule "baselines/dent-ddsp"]
+	path = baselines/dent-ddsp
+	url = git@github.com:guozixunnicolas/DENT_DDSP.git
+[submodule "baselines/gsa"]
+	path = baselines/gsa
+	url = git@github.com:leandermaben/GANSpeechAugment.git
